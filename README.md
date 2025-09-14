@@ -17,7 +17,6 @@ It explores:
 - **GitHub** → Version control and project portfolio  
 
 ## 📊 Dashboard
-![Dashboard Screenshot](images/dashboard.png)
 
 The dashboard shows:
 - Total revenue trends by month  
